@@ -1,12 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal</h3>
+<h1 align="center">Hi there 👋, I'm Kushal Kandel</h1>
+<h3 align="center">A passionate Web developer from Nepal</h3>
 <img align="right" alt="Codings" width="320" src="https://github.com/ashminarai/ashminarai/assets/85731866/92f7d422-3952-42d2-b2f1-1be40130085b">
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashminarai](https://github.com/ashminarai)
-
-- 📫 How to reach me **raiashmina404@gmail.com**
+- 📫 How to reach me **kushalkandel15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
